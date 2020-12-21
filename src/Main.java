@@ -12,7 +12,7 @@ import java.sql.Statement;
 
 public class Main {
 	
-	static String url = "jdbc:mysql://localhost/gestionUstensiles";
+	static String url = "jdbc:mysql://localhost/gestionustensiles";
 	static String passwrd = "";
 	static String user = "root";
 	
